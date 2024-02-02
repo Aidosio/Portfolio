@@ -611,6 +611,10 @@ body {
         padding: 0 36px;
     }
 
+    .header-content {
+        width: 100%;
+    }
+
     .projects {
         width: 100%;
     }
